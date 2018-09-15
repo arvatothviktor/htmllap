@@ -7,3 +7,18 @@ hr.style {
 	border-top: 2px dashed #8c8b8b;
 }
 
+a:link {
+    color: red;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    color: green;
+}
+
+a:active {
+    color: green;
+}
